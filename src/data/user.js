@@ -1,4 +1,4 @@
-const user = {
+  user = {
   name: "Liza",
   city: "New York",
   bio: "I made this!",
